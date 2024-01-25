@@ -12,5 +12,3 @@ Main features introduced into Minecraft gameplay:
 5. Light renderer has been updated. Now the game scans area and if the object is out of your field of view, it does not receive lighting. It doesn't affect the graphics in any way.
 
 Also optional you can turn on/off third-party mods to boost FPS. The most popular of them do not conflict with JavaBoostOptimizer.
-
-For complaints and suggestions:
