@@ -17,6 +17,6 @@ Password: ```boostergithub```
 
 Also optional you can turn on/off third-party mods to boost FPS. The most popular of them do not conflict with SegwitOptimizer.
 
-For example: [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor), [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator), [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+For example: [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor), [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator), [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) 
 
 P.S. ```The Segwit name has no relationship to Segregated Witness. I just liked this word :)```
