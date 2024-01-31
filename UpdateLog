@@ -1,12 +1,19 @@
-JavaBoostOptimizer v1.01
+SegwitOptimizer v1.02
+- Added auto-update function
+- Automatic search for Java files
+- Improved software visuals
+- Fixed bugs
+
+
+SegwitOptimizer v1.01
 - More customizations added
 - Support for versions of minecraft 1.18.9
 - Added support mail
-- Bug fixes 
+- Fixed bugs
 
 
-JavaBoostOptimizer v1.0
-First version of JavaBoostOptimizer, the start of something big?
+SegwitOptimizer v1.0
+First version of SegwitOptimizer, the start of something big?
 - Added interface
 - Improved performance in Minecraft
 - Added mods menu
